@@ -1,0 +1,229 @@
+body {
+   color: rgb(213, 120, 241);
+   background-color: rgb(241, 181, 231);
+   font-style: normal;
+   transform: scale(1.05);
+
+}
+
+Libro {
+   color: rgb(202, 73, 181);
+   background-color: rgb(206, 144, 196);
+   font-style: normal;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   gap: 30px;
+   transform: scale(1.05);
+   border:hsl(from color h s l);
+
+}
+
+LibroS {
+   color: rgb(245, 17, 74);
+   background-color: rgb(211, 109, 131);
+   font-style: normal;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   gap: 30px;
+   transform: scale(1.05);
+   border:hsl(from color h s l);
+
+}
+
+Lii{
+   color: rgb(194, 162, 255);
+   background-color: rgb(51, 13, 112);
+   font-style: normal;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   gap: 30px;
+   transform: scale(1.05);
+
+}
+
+Lib{
+   color: rgb(247, 74, 74);
+   background-color: rgb(236, 75, 0);
+   font-style: normal;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   gap: 30px;
+   transform: scale(1.05);
+
+}
+
+L{
+   color: rgb(146, 141, 243);
+   background-color: rgb(11, 19, 138);
+   font-style: normal;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   gap: 30px;
+   transform: scale(1.05);
+
+}
+
+Libroseis{
+   color: rgb(176, 171, 255);
+   background-color: rgb(11, 19, 138);
+   font-style: normal;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   gap: 30px;
+   transform: scale(1.05);
+
+}
+
+Librosiete{
+   color: rgb(165, 79, 235);
+   background-color: rgb(183, 153, 231);
+   font-style: normal;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   gap: 30px;
+   transform: scale(1.05);
+
+}
+
+Libroso{
+   color: rgb(22, 48, 59);
+   background-color: rgb(183, 153, 231);
+   font-style: normal;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   gap: 30px;
+   transform: scale(1.05);
+
+}
+
+Libron{
+   color: rgb(165, 79, 235);
+   background-color: rgb(183, 153, 231);
+   font-style: normal;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   gap: 30px;
+   transform: scale(1.05);
+
+}
+
+Librod{
+   color: rgb(209, 29, 179);
+   background-color: rgb(183, 153, 231);
+   font-style: normal;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   gap: 30px;
+   transform: scale(1.05);
+
+}
+
+Librod{
+   color: rgb(209, 29, 179);
+   background-color: rgb(183, 153, 231);
+   font-style: normal;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   gap: 30px;
+   transform: scale(1.05);
+
+}
+
+Librod{
+   color: rgb(209, 29, 179);
+   background-color: rgb(183, 153, 231);
+   font-style: normal;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   gap: 30px;
+   transform: scale(1.05);
+
+}
+
+Libroonce{
+   color: rgb(169, 100, 247);
+   background-color: rgb(33, 3, 82);
+   font-style: normal;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   gap: 30px;
+   transform: scale(1.05);
+
+}
+
+Librodoce{
+   color: rgb(241, 247, 165);
+   background-color: rgb(209, 187, 63);
+   font-style: normal;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   gap: 30px;
+   transform: scale(1.05);
+
+}
+
+Librot{
+   color: rgb(86, 216, 166);
+   background-color: rgb(17, 119, 80);
+   font-style: normal;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   gap: 30px;
+   transform: scale(1.05);
+
+}
+
+Libroc{
+   color: rgb(189, 149, 117);
+   background-color: rgb(209, 187, 63);
+   font-style: normal;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   gap: 30px;
+   transform: scale(1.05);
+
+}
+
+Libroq{
+   color: rgb(4, 12, 2);
+   background-color: rgb(238, 221, 71);
+   font-style: normal;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   gap: 30px;
+   transform: scale(1.05);
+
+}
+
+Librounoseis{
+   color: rgb(64, 131, 207);
+   background-color: rgb(228, 207, 89);
+   font-style: normal;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   gap: 30px;
+   transform: scale(1.05);
+
+}
+
+Librounosiete{
+   color: rgb(15, 92, 122);
+   background-color: rgb(209, 187, 63);
+   font-style: normal;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   gap: 30px;
+   transform: scale(1.05);
+
+}
+
+Librounoocho{
+   color: rgb(243, 228, 143);
+   background-color: rgb(180, 168, 98);
+   font-style: normal;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   gap: 30px;
+   transform: scale(1.05);
+
+}
+
+Librounonueve{
+   color: rgb(222, 102, 233);
+   background-color: rgb(63, 180, 209);
+   font-style: normal;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   gap: 30px;
+   transform: scale(1.05);
+
+}
+
+Librof{
+   color: rgb(72, 232, 238);
+   background-color: rgb(240, 121, 100);
+   font-style: normal;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   gap: 30px;
+   transform: scale(1.05);
+
+}
